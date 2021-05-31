@@ -4,12 +4,12 @@ An Expense Tracking Flutter Application
 
 ## About
 
-![Wallett vector](images\wallett.jpg)
+![Wallett vector](images/wallett.jpg)
 
 Manage your expences and credits all in one place.
 
 
-<img src="images\landing.png" alt="landing" width="100"/> <img src="images\Dashboard.png" alt="landing" width="100"/> <img src="images\userProfile.png" alt="landing" width="100"/> <img src="images\nav.png" alt="landing" width="100"/> <img src="images\credit.png" alt="landing" width="100"/> <img src="images\expend.png" alt="landing" width="100"/>
+<img src="images\Landing.png" alt="landing" width="100"/> <img src="images\Dashboard.png" alt="landing" width="100"/> <img src="images\UserProfile.png" alt="landing" width="100"/> <img src="images\nav.png" alt="landing" width="100"/> <img src="images\credit.png" alt="landing" width="100"/> <img src="images\Expend.png" alt="landing" width="100"/>
 
 ## Features
 
